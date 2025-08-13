@@ -1,0 +1,73 @@
+{
+  "lessons": [
+    {
+      "title": "Saudações",
+      "cards": [
+        { "ja": "こんにちは", "pt": "Olá/Boa tarde", "notes": "Konnichiwa" },
+        { "ja": "おはようございます", "pt": "Bom dia (formal)", "notes": "Ohayō gozaimasu" },
+        { "ja": "こんばんは", "pt": "Boa noite", "notes": "Konbanwa" },
+        { "ja": "ありがとうございます", "pt": "Obrigado(a)", "notes": "Arigatō gozaimasu" },
+        { "ja": "すみません", "pt": "Desculpe/Com licença", "notes": "Sumimasen" },
+        { "ja": "さようなら", "pt": "Adeus", "notes": "Sayōnara" }
+      ]
+    },
+    {
+      "title": "Apresentações",
+      "cards": [
+        { "ja": "はじめまして", "pt": "Muito prazer", "notes": "Hajimemashite" },
+        { "ja": "私の名前は…です", "pt": "O meu nome é…", "notes": "Watashi no namae wa ... desu" },
+        { "ja": "ポルトガルから来ました", "pt": "Vim de Portugal", "notes": "Porutogaru kara kimashita" },
+        { "ja": "よろしくお願いします", "pt": "Conto com a sua colaboração", "notes": "Yoroshiku onegaishimasu" }
+      ]
+    },
+    {
+      "title": "Números e Tempo",
+      "cards": [
+        { "ja": "一", "pt": "Um", "notes": "Ichi" },
+        { "ja": "二", "pt": "Dois", "notes": "Ni" },
+        { "ja": "三", "pt": "Três", "notes": "San" },
+        { "ja": "四", "pt": "Quatro", "notes": "Yon/Shi" },
+        { "ja": "五", "pt": "Cinco", "notes": "Go" },
+        { "ja": "何時ですか？", "pt": "Que horas são?", "notes": "Nanji desu ka?" },
+        { "ja": "今は三時です", "pt": "Agora são três horas", "notes": "Ima wa sanji desu" }
+      ]
+    },
+    {
+      "title": "Verbos base",
+      "cards": [
+        { "ja": "食べる", "pt": "Comer", "notes": "taberu" },
+        { "ja": "行く", "pt": "Ir", "notes": "iku" },
+        { "ja": "読む", "pt": "Ler", "notes": "yomu" },
+        { "ja": "する", "pt": "Fazer", "notes": "suru" },
+        { "ja": "来る", "pt": "Vir", "notes": "kuru" }
+      ]
+    },
+    {
+      "title": "Partículas 101",
+      "cards": [
+        { "ja": "は", "pt": "Indica tópico", "notes": "wa" },
+        { "ja": "を", "pt": "Indica objeto direto", "notes": "wo" },
+        { "ja": "に", "pt": "Indica destino/tempo", "notes": "ni" },
+        { "ja": "で", "pt": "Indica lugar de ação", "notes": "de" },
+        { "ja": "の", "pt": "Indica posse", "notes": "no" },
+        { "ja": "か", "pt": "Indica pergunta", "notes": "ka" }
+      ]
+    },
+    {
+      "title": "No restaurante",
+      "cards": [
+        { "ja": "メニューをお願いします", "pt": "O menu, por favor", "notes": "Menyū o onegaishimasu" },
+        { "ja": "水を二つください", "pt": "Água para dois, por favor", "notes": "Mizu o futatsu kudasai" },
+        { "ja": "会計をお願いします", "pt": "A conta, por favor", "notes": "Kaikei o onegaishimasu" }
+      ]
+    },
+    {
+      "title": "Transportes",
+      "cards": [
+        { "ja": "切算を二枚ください", "pt": "Dois bilhetes, por favor", "notes": "Kippu o nimai kudasai" },
+        { "ja": "東京駅はどこですか", "pt": "Onde fica a estação de Tóquio?", "notes": "Tōkyō-eki wa doko desu ka" },
+        { "ja": "この電車は東京に行きますか", "pt": "Este comboio vai para Tóquio?", "notes": "Kono densha wa Tōkyō ni ikimasu ka" }
+      ]
+    }
+  ]
+}
